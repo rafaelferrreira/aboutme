@@ -1,0 +1,41 @@
+body {
+	background-image: url("https://img.freepik.com/fotos-gratis/vista-superior-do-conceito-de-mesa-escura-com-espaco-de-copia_23-2148459511.jpg?w=740&t=st=1700786946~exp=1700787546~hmac=2a8427ec68b5d48c18f1bba784316fa29d4c2796e19d9c583b7f49f2ed6d1961");
+	background-size: auto 100vh;
+    background-repeat:no-repeat;
+	font-family:Arial;
+	height:100vh;
+}
+
+.menu {
+		background-color: white;
+}
+
+.menu ul {
+	display: flex;
+	justify-content: space-around;
+}
+
+.menu li {
+	list-style: none;
+}
+
+a {
+	color: grey;
+	text-decoration: none;
+	
+}
+
+a:hover{
+	text-decoration: underline;
+}
+
+.site-title, .site-subtitle {
+	color:whitesmoke;
+	text-align:center;
+}
+.site-subtitle {
+	font-style: italic;
+}
+
+
+
